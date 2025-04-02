@@ -4,7 +4,7 @@ const questions = [
         answers: [
             { text: "「笑死，這種事也能遇到？」", type: "A" },
             { text: "「其實這樣也不錯吧？」", type: "B" },
-            { text: "「欸，現在這維修畫面感覺很感人耶！」", type: "C" },
+            { text: "「欸，維修車子感覺很酷耶！」", type: "C" },
             { text: "「有點餓了……」", type: "D" },
             { text: "「欸欸，那邊有籃球場！」", type: "E" },
             { text: "「趁這時間來打把遊戲？」 ", type: "F" },
